@@ -1,7 +1,7 @@
 ---
 title: Shield Illinois
 subtitle: Huguette is a simple boilerplate theme for Hugo that still looks good and gets you up and running in minutes.
-header: /img/bistrothuguette.jpg
+header: /img/SHIELD Chicago night skyline.png
 ---
 
 ## About Huguette

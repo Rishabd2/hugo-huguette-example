@@ -7,7 +7,7 @@ header: /img/bistrothuguette.jpg
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cathelijne/hugo-huguette-example&stack=cms)
 
 ## About Huguette
-Huguette contains no javascript. No CSS framework. No frills.
+Shield is an important project. 
 
 I am a cloud engineer by day, and a hobbyist website builder whenever I have the time. I like to try lots of different technologies, just for the fun of it. 
 Often, I miss a very simple boilerplate theme that just demonstrates what a CMS or site builder can do. Either you have to take your pick from the many (and often excellent!) beautiful themes with lots of bells and whistles that obscure a bit how everything works, or you have to start from scratch.

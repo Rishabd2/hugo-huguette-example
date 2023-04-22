@@ -1,10 +1,8 @@
 ---
-title: Huguette. A theme for Hugo
+title: Shield Illinois
 subtitle: Huguette is a simple boilerplate theme for Hugo that still looks good and gets you up and running in minutes.
 header: /img/bistrothuguette.jpg
 ---
-### TLDR; Just give me a site with this theme
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cathelijne/hugo-huguette-example&stack=cms)
 
 ## About Huguette
 Shield is an important project. 
